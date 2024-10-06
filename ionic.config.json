@@ -1,0 +1,7 @@
+{
+  "name": "gestocks",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
